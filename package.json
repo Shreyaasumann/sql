@@ -1,0 +1,23 @@
+{
+  "name": "sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "customer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreyaasumann/sql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shreyaasumann/sql/issues"
+  },
+  "homepage": "https://github.com/Shreyaasumann/sql#readme",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}
